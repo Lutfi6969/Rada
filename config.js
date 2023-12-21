@@ -15,18 +15,18 @@ global.author = 'Bot WhatsApp'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.btc = 'XuuzlX8H' 
+global.btc = '4BvY6YLI' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'XuuzlX8H'
+global.lann = '4BvY6YLI'
 //Daftar https://api.betabotz.eu.org 
 
 global.APIs = {   
   btc: 'https://api.botcahx.eu.org'
 }
 global.APIKeys = { 
-  'https://api.botcahx.eu.org': 'XuuzlX8H' 
+  'https://api.botcahx.eu.org': '4BvY6YLI' 
 }
 
 let fs = require('fs')
